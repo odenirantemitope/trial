@@ -1,0 +1,33 @@
+#content{
+    width: 700px;
+    margin: 0 auto;
+    border-radius: 2px;
+    line-height: 15px;
+    height: 800px;
+}
+#center{
+    text-align: center;
+    line-height: 5px
+    padding-top: 5px;
+    background: #8dc27e;
+}
+#image{
+    height: 150px;
+    width: 130px;
+    border-radius: 50%
+}
+.pattern{
+    height: 20px;
+    width: 200px;
+    padding: 7px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}
+#side{
+    width: 300px;
+}
+p,h5,h3{
+    padding-left: 10px;
+    border: 2px solid red;
+
